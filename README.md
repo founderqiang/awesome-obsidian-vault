@@ -27,9 +27,9 @@ A curated list of awesome resources, templates, guides for developers, digital g
 ### Cooking and Recipes
 
 - Based.cooking from Luke Smith: [vault ✨](https://github.com/lukesmithxyz/based.cooking) - [website](https://based.cooking/)
-- Chowdown by Clarklab: [vault](https://github.com/clarklab/chowdown) - [website](https://chowdown.io/)
 - Grimgrains from Hundredrabbits: [vault ✨](https://github.com/hundredrabbits/Grimgrains) - [website](https://grimgrains.com/site/home.html)
 - Recetas de Cocina (Spanish) from Obsidian PKM Vault: [vault ✨](https://github.com/obsidian-pkm-vault/recetas-cocina) - [website](https://obsidian-pkm-vault.github.io/recetas-cocina/recetas/)
+- Chowdown by Clarklab: [vault](https://github.com/clarklab/chowdown) - [website](https://chowdown.io/)
 - DevCookbook from Microsoft: [vault](https://github.com/microsoft/DevCookbook/)
 - HowToCook (Chinese) from Anduin2017: [vault](https://github.com/Anduin2017/HowToCook) - [website](https://cook.aiursoft.cn/)
 - Recipes from dpapathanasiou: [vault](https://github.com/dpapathanasiou/recipes)
@@ -41,11 +41,11 @@ A curated list of awesome resources, templates, guides for developers, digital g
 
 - Computing notes from noodleslove: [vault](https://github.com/noodleslove/notes)
 - CS Notes: [vault ✨](https://github.com/xy-241/CS-Notes) - [website](https://notes.yxy.ninja/)
+- JavaScript Info (EN) from Javascript-tutorial: [vault ✨](https://github.com/javascript-tutorial/en.javascript.info) - [website](https://javascript.info/)
+- JavaScript Info (ES) from Javascript-tutorial: [vault ✨](https://github.com/javascript-tutorial/es.javascript.info) - [website](https://es.javascript.info/)
 - OSSU Computer Science: [vault](https://github.com/ossu/computer-science)
 - Learning Notes from keyvanakbary: [vault](https://github.com/keyvanakbary/learning-notes) - [website](https://keyvanakbary.github.io/learning-notes/)
 - Computer Guides from mayfrost: [vault](https://github.com/mayfrost/guides/tree/master)
-- JavaScript Info (EN) from Javascript-tutorial: [vault ✨](https://github.com/javascript-tutorial/en.javascript.info) - [website](https://javascript.info/)
-- JavaScript Info (ES) from Javascript-tutorial: [vault ✨](https://github.com/javascript-tutorial/es.javascript.info) - [website](https://es.javascript.info/)
 - JavaScript Info (RU) from Javascript-tutorial: [vault](https://github.com/javascript-tutorial/ru.javascript.info) - [website](https://ru.javascript.info/)
 - JavaScript Info (ZH) from Javascript-tutorial: [vault](https://github.com/javascript-tutorial/zh.javascript.info) - [website](https://zh.javascript.info/)
 
@@ -65,11 +65,13 @@ A curated list of awesome resources, templates, guides for developers, digital g
 
 ### Digital Gardens + templates
 
+- Kepano Obsidian: [vault ✨](https://github.com/kepano/kepano-obsidian)
+- Obsidian Icewind from shervinsahba: [vault ✨](https://github.com/shervinsahba/obsidian-icewind) - [website](https://icewind.quest/)
+- Topobon from uroybd: [vault ✨](https://github.com/uroybd/topobon) - [website](https://hermitage.utsob.me/)
 - Alexis Chen notes: [vault](https://github.com/AlexiaChen/my-notes)
 - Obsidian Vault Template from CyanVoxel: [vault](https://github.com/CyanVoxel/Obsidian-Vault-Template)
 - Digital Gardeners from MaggieAppleton: [vault](https://github.com/MaggieAppleton/digital-gardeners)
 - Obsidian Templates from groepl: [vault](https://github.com/groepl/Obsidian-Templates)
-- Kepano Obsidian: [vault ✨](https://github.com/kepano/kepano-obsidian)
 - Blue Book from lyz-code: [vault](https://github.com/lyz-code/blue-book) - [website](https://lyz-code.github.io/blue-book/)
 - Obsidian Hub: [vault](https://github.com/obsidian-community/obsidian-hub/tree/d3676c1b477e0a0f00c514fb986a792aa048bb37)
 - Digital Garden Docs from oleeskild: [vault](https://github.com/oleeskild/digitalgardendocs) - [website](https://dg-docs.ole.dev/)
@@ -79,8 +81,6 @@ A curated list of awesome resources, templates, guides for developers, digital g
 - Intersect from rknightuk: [vault](https://github.com/rknightuk/intersect)
 - DashboardPlusPlus from TfTHacker: [vault](https://github.com/TfTHacker/DashboardPlusPlus) - [website](https://tfthacker.com/DashboardPlusPLus)
 - Obsidian Digital Garden from ThatOtherAndrew: [vault](https://github.com/ThatOtherAndrew/obsidian-digital-garden) - [website](https://notes.thatother.dev/)
-- Obsidian Icewind from shervinsahba: [vault ✨](https://github.com/shervinsahba/obsidian-icewind) - [website](https://icewind.quest/)
-- Topobon from uroybd: [vault ✨](https://github.com/uroybd/topobon) - [website](https://hermitage.utsob.me/)
 
 ### Knowledge Repositories
 
