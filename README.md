@@ -1,7 +1,7 @@
 # Awesome List of Obsidian vaults
 
 > [!NOTE]
-> Not all of the vaults are compatible with Obsidian's Markdown syntax. Some of them come from static site generators, such as Hugo.
+> Not all of the vaults are fully compatible with Obsidian's Markdown syntax. Some of them come from static site generators, such as Hugo.
 
 A curated list of awesome resources, templates, guides for developers, digital gardeners, and learners as an obsidian vault (basically markdown format with assets).
 
