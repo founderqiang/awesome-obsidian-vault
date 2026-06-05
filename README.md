@@ -5,7 +5,10 @@
 
 A curated list of awesome resources, templates, guides for developers, digital gardeners, and learners as an obsidian vault (basically markdown format with assets).
 
-## Table of vault + website classified by topics (43)
+## Table of vault + website classified by topics (48)
+
+> [!TIP]
+> ✨ marks a standout pick — a particularly polished, complete, or popular vault.
 
 | Category         | Name and author                           | vault                                                                        | web                                                                                    |   |
 |------------------|-------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---|
@@ -25,13 +28,13 @@ A curated list of awesome resources, templates, guides for developers, digital g
 | Computer Science | Computer Guides — mayfrost                | [vault](https://github.com/mayfrost/guides/tree/master)                      | N/A                                                                                    |   |
 | Computer Science | OSSU Computer Science                     | [vault](https://github.com/ossu/computer-science)                            | N/A                                                                                    |   |
 | Computer Science | Learning Notes — keyvanakbary             | [vault](https://github.com/keyvanakbary/learning-notes)                      | [web](https://keyvanakbary.github.io/learning-notes/)                                  |   |
+| Cosmology        | Wikiterra Vault                           | [vault](https://github.com/Wikiterra/wikiterra-vault)                        | [web](https://wikiterra.github.io/)                                                    |   |
 | Dev & Design     | Awesome Agent Skills — VoltAgent          | [vault](https://github.com/VoltAgent/awesome-agent-skills)                   | [web](https://officialskills.sh/)                                                      |   |
 | Dev & Design     | skills — Vercel labs                      | [vault](https://github.com/vercel-labs/skills)                               | [web](https://www.skills.sh/)                                                          |   |
 | Dev & Design     | System Design 101 — ByteByteGoHq          | [vault](https://github.com/ByteByteGoHq/system-design-101)                   | [web](https://bytebytego.com/guides/)                                                  |   |
 | Dev & Design     | dotnet API Docs                           | [vault](https://github.com/dotnet/dotnet-api-docs)                           | [web](https://learn.microsoft.com/en-us/dotnet/api/)                                   |   |
 | Dev & Design     | SQL Docs — MicrosoftDocs                  | [vault](https://github.com/MicrosoftDocs/sql-docs)                           | [web](https://learn.microsoft.com/en-us/sql/?view=sql-server-ver17)                    |   |
-| Cosmology        | Wikiterra Vault                           | [vault](https://github.com/Wikiterra/wikiterra-vault)                        | [web](https://wikiterra.github.io/)                                                    |   |
-| Digital Garden   | Alexis Chen notes                         | [vault](https://github.com/AlexiaChen/my-notes)                              | N/A                                                                                    |   |
+| Digital Garden   | Alexia Chen notes — AlexiaChen            | [vault](https://github.com/AlexiaChen/my-notes)                              | N/A                                                                                    |   |
 | Digital Garden   | Obsidian Vault Template — CyanVoxel       | [vault](https://github.com/CyanVoxel/Obsidian-Vault-Template)                | N/A                                                                                    |   |
 | Digital Garden   | Digital Gardeners — MaggieAppleton        | [vault](https://github.com/MaggieAppleton/digital-gardeners)                 | N/A                                                                                    |   |
 | Digital Garden   | Obsidian Templates — groepl               | [vault](https://github.com/groepl/Obsidian-Templates)                        | N/A                                                                                    |   |
@@ -46,19 +49,19 @@ A curated list of awesome resources, templates, guides for developers, digital g
 | Documentation    | Digital Garden Docs — oleeskild           | [vault](https://github.com/oleeskild/digitalgardendocs)                      | [web](https://dg-docs.ole.dev/)                                                        |   |
 | Documentation    | Intersect — rknightuk                     | [vault](https://github.com/rknightuk/intersect)                              | [web](https://intersect.rknight.me/)                                                   |   |
 | Documentation    | DashboardPlusPlus — TfTHacker             | [vault](https://github.com/TfTHacker/DashboardPlusPlus)                      | [web](https://tfthacker.com/DashboardPlusPLus)                                         |   |
-| Documentation    | Gatekeeperwiki Game  — Gravity Lagoon     | [vault](https://github.com/obsidian-pkm-vault/gatekeeperwiki)                | [web](https://www.gatekeeper.wiki/)                                                    |   |
+| Documentation    | Gatekeeperwiki Game — Gravity Lagoon      | [vault](https://github.com/obsidian-pkm-vault/gatekeeperwiki)                | [web](https://www.gatekeeper.wiki/)                                                    |   |
 | Documentation    | Obsidian Tasks — obsidian-tasks-group     | [vault](https://github.com/obsidian-tasks-group/obsidian-tasks)              | [web](https://publish.obsidian.md/tasks/)                                              |   |
 | Engineering      | Data Engineering Wiki                     | [vault](https://github.com/data-engineering-community/data-engineering-wiki) | [web](https://dataengineering.wiki/Index)                                              |   |
-| Kownledge        | KaaS — jimbrig                            | [vault](https://github.com/jimbrig/KaaS)                                     | [web](https://kaas.jimbrig.com/)                                                       |   |
-| Kownledge        | Knowledge — nikitavoloboev                | [vault](https://github.com/nikitavoloboev/knowledge)                         | [web](https://nikiv.dev/)                                                              |   |
+| Knowledge        | KaaS — jimbrig                            | [vault](https://github.com/jimbrig/KaaS)                                     | [web](https://kaas.jimbrig.com/)                                                       |   |
+| Knowledge        | Knowledge — nikitavoloboev                | [vault](https://github.com/nikitavoloboev/knowledge)                         | [web](https://nikiv.dev/)                                                              |   |
 | Personal Site    | Devine Lu Linvega (oscean)                | [vault](https://github.com/XXIIVV/oscean)                                    | [web](https://wiki.xxiivv.com/site/home.html)                                          |   |
-| Personal Site    | Hundred Rabbits project site              | [vault](https://github.com/hundredrabbits/100r.co)                           | [web](https://github.com/hundredrabbits/100r.co)                                       |   |
+| Personal Site    | Hundred Rabbits project site              | [vault](https://github.com/hundredrabbits/100r.co)                           | [web](https://100r.co/site/home.html)                                       |   |
 | Personal Site    | Rekka Bellum (kokorobot)                  | [vault](https://github.com/rekkabell/kokorobot)                              | [web](https://kokorobot.ca/site/)                                                      |   |
 | Sample vault     | Ideaverse — LYT (Nick Milo)               | N/A                                                                          | [web](https://www.linkingyourthinking.com/ideaverse-for-obsidian/onboarding-ideaverse) |   |
-| Web Directory    | Interneto  — David7ce                     | [vault](https://github.com/interneto/interneto.github.io)                    | [web](https://interneto.github.io/)                                                    | ✨ |
-| Web Directory    | Free Media Heck Yeah  — nbats             | [vault](https://github.com/fmhy/edit)                                        | [web](https://fmhy.net/)                                                               | ✨ |
+| Web Directory    | Interneto — David7ce                      | [vault](https://github.com/interneto/interneto.github.io)                    | [web](https://interneto.github.io/)                                                    | ✨ |
+| Web Directory    | Free Media Heck Yeah — nbats              | [vault](https://github.com/fmhy/edit)                                        | [web](https://fmhy.net/)                                                               | ✨ |
  
-## Resources (11)
+## Resources (8)
 
 ## Dictionaries and Language Resources (6)
 
