@@ -11,4 +11,4 @@
 - [ ] Used `N/A` where a vault or web link doesn't exist.
 - [ ] Links work and point to the canonical source.
 - [ ] If I added/removed entries, I updated the count in the relevant heading.
-- [ ] I read [CONTRIBUTING.md](CONTRIBUTING.md).
+- [ ] I read [CONTRIBUTING.md](../CONTRIBUTING.md).

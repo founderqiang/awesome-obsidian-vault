@@ -64,7 +64,7 @@ A curated list of awesome resources, templates, guides for developers, digital g
 | Sample vault     | Ideaverse — LYT (Nick Milo)               | N/A                                                                          | [web](https://www.linkingyourthinking.com/ideaverse-for-obsidian/onboarding-ideaverse) |   |
 | Web Directory    | Interneto — David7ce                      | [vault](https://github.com/interneto/interneto.github.io)                    | [web](https://interneto.github.io/)                                                    | ✨ |
 | Web Directory    | Free Media Heck Yeah — nbats              | [vault](https://github.com/fmhy/edit)                                        | [web](https://fmhy.net/)                                                               | ✨ |
- 
+
 ## Resources (8)
 
 ## Dictionaries and Language Resources (6)
